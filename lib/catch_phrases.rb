@@ -4,6 +4,6 @@ def mario
 end
 
 def toadstool
-  puts status = "It's Dangerous To Go Alone! Take This."
-  puts phrase = "Do A Barrel Roll!"
+  puts status = 
+  puts phrase = 
 end
